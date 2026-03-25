@@ -89,6 +89,11 @@ body {
 .game {
   display: flex;
   flex-direction: row;
+  align-items: flex-start;
+  padding: 16px;
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow: 0 8px 24px rgba(17, 24, 39, 0.08);
 }
 
 .game-info {
